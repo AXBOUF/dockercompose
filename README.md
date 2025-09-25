@@ -100,21 +100,4 @@ SELECT * FROM visitors;
 
 ---
 
-## Screenshots (Optional)
 
-*Add screenshots of your app here with captions if you like.*
-
----
-
-## License
-
-MIT License
-
-```
-
-This version will render correctly on GitHub, with proper code blocks and headings.  
-
-If you want, I can also **enhance it with badges, Docker build status, and contribution guidelines** to make it look like a professional portfolio README.  
-
-Do you want me to do that next?
-```
