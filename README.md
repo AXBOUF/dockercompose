@@ -1,5 +1,5 @@
 
-# Portfolio Sign-Up Web App
+# HANDS ON DOCKER COMPOSE WITH SIMPLE FULL STACK SAMPLE
 
 A simple Python web application to collect and display email sign-ups, backed by PostgreSQL, running in Docker containers.
 
